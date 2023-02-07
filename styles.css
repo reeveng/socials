@@ -53,11 +53,11 @@ section {
   text-align: center;
   color: white;
   font-size: 1.5rem;
-  transition: all 0.5s ease;
+  transition: all 0.25s ease;
 }
 
 .socials a:hover {
-  color: #70877f;
+  color: #FFD400;
 }
 
 @media only screen and (max-width: 512px) {
