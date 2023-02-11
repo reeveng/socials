@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
 
 html,
 body {
@@ -38,6 +38,7 @@ section {
 .about {
   max-width: 85%;
   align-self: center;
+  padding: 1rem 0rem;
 }
 
 .socials {
